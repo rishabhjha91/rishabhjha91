@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rishabh Jha
 
-<!--
-**rishabhjha91/rishabhjha91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/LLM and coding-agent evaluation engineer with a background in Python, backend engineering, machine learning, and data science. I judge model output at scale: reviewing model-generated code and full agent trajectories, deciding what is actually correct, and turning that into clean benchmark and training signal.
 
-Here are some ideas to get you started:
+- Currently: Research Quality Specialist (Computational Math) at Turing, authoring SciCode-style benchmarks and rubric-driven evaluation for frontier models.
+- Focus areas: coding-agent evaluation, Code QA, benchmark and rubric authoring, RLHF/SFT data quality, scientific Python, backend systems.
+- Background: PhD research in Mathematics (IIT Bombay), 12+ years across backend, ML, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[AgentEval Studio](https://github.com/rishabhjha91/agent-eval-studio)** - FastAPI + React/TypeScript tool that scores coding-agent trajectories against a rubric, with reference solutions and automated checks.
+- **[ML & DS Evaluation Lab](https://github.com/rishabhjha91/ml-ds-evaluation-lab)** - reproducible lab covering modeling, cross-validation, calibration, error analysis, and DuckDB/SQL analytics.
+- **[Scientific Python Benchmark Pack](https://github.com/rishabhjha91/scientific-python-benchmarks)** - scientific-computing benchmarks with reference implementations and automated verifiers (numerical linear algebra, optimization, numerical methods).
+
+## Tech I work with
+
+Python, TypeScript, SQL, FastAPI, Flask, PostgreSQL/pgvector, Redis, Docker, Kubernetes, PyTorch, scikit-learn, NumPy, pandas, SciPy, MLflow, Weights & Biases, pytest, Vitest, React.
+
+## Contact
+
+- Email: rishabhinfy91@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rishabh-jha-bbab5445/
+- Location: Bengaluru, India
