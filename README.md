@@ -4,7 +4,7 @@ AI/LLM and coding-agent evaluation engineer with a background in Python, backend
 
 - Currently: Research Quality Specialist (Computational Math) at Turing, authoring SciCode-style benchmarks and rubric-driven evaluation for frontier models.
 - Focus areas: coding-agent evaluation, Code QA, benchmark and rubric authoring, RLHF/SFT data quality, scientific Python, backend systems.
-- Background: PhD research in Mathematics (IIT Bombay), 12+ years across backend, ML, and data science.
+- Background: PhD research in Mathematics, 12+ years across backend, ML, and data science.
 
 ## Featured projects
 
