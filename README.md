@@ -1,10 +1,10 @@
 # Hi, I'm Rishabh Jha
 
-AI/LLM and coding-agent evaluation engineer with a background in Python, backend engineering, machine learning, and data science. I judge model output at scale: reviewing model-generated code and full agent trajectories, deciding what is actually correct, and turning that into clean benchmark and training signal.
+AI/LLM Architect and coding-agent evaluation engineer with a background in Python, backend engineering, machine learning, and data science. I judge model output at scale: reviewing model-generated code and full agent trajectories, deciding what is actually correct, and turning that into clean benchmark and training signal.
 
 - Currently: Research Quality Specialist (Computational Math) at Turing, authoring SciCode-style benchmarks and rubric-driven evaluation for frontier models.
 - Focus areas: coding-agent evaluation, Code QA, benchmark and rubric authoring, RLHF/SFT data quality, scientific Python, backend systems.
-- Background: PhD research in Mathematics, 12+ years across backend, ML, and data science.
+- Background: PhD research in Mathematics, 10+ years across backend, ML, and data science.
 
 ## Featured projects
 
