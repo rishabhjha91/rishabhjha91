@@ -24,9 +24,6 @@ I work across AI evaluation, scientific computing, and software engineering. My 
 - **[Dataset Quality Checker](https://github.com/rishabhjha91/dataset-quality-checker)** — A lightweight, dependency-free Python toolkit for checking tabular data. It detects missing required columns, empty or null values, and duplicate rows, and produces a compact dataset profile.
 - **[Model Metrics Toolkit](https://github.com/rishabhjha91/model-metrics-toolkit)** — A small Python toolkit implementing common binary-classification metrics (accuracy, precision, recall, and F1) and regression metrics (MAE, MSE, and RMSE), with input validation and no third-party dependencies.
 
-### Other work
-
-- **[Code Assignments](https://github.com/rishabhjha91/code_assignments)** — A collection of programming assignments and their corresponding code solutions.
 
 ## Technical toolkit
 
